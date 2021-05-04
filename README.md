@@ -1,12 +1,12 @@
 using System;
 
-namespace ConsoleApp15
-{
-    class Program
+    namespace ConsoleApp15
     {
-        static void Main(string[] args)
+    class Program
         {
-        Start:
+        static void Main(string[] args)
+                  {
+             Start:
             Console.WriteLine("What shapes do you want ?: ");
             Console.WriteLine("square");
             Console.WriteLine("circle");
